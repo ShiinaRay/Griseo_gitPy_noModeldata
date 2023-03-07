@@ -7,6 +7,7 @@ Missing file
 here: /MNIST_data /Lenet5Model etc.
 
 My Python Interpreter / Environment Reference
+`Python3.7`
 ```
 Python\Python37\Lib\site-packages
 ```
